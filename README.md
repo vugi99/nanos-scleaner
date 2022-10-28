@@ -1,2 +1,2 @@
 # nanos-scleaner
-A small package that cleans the world
+Meant to be used with the sandbox gamemode
